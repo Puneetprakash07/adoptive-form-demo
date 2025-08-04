@@ -1,11 +1,11 @@
 {
   "mappings": [
-    "/content/demo-eds-adaptive-form:/",
-    "/content/demo-eds-adaptive-form/adaptive-form/adaptive-form-spreadsheet:/adaptive-form/adaptive-form-spreadsheet.json"
+    "/content/adaptive-form-eds-dummy:/",
+    "/content/adaptive-form-eds-dummy/adaptive-form-dummy/adaptive-form-dummy-spreadsheet:/adaptive-form-dummy/adaptive-form-dummy-spreadsheet.json"
   ],
   "includes": [
     "/content/",
     "/content/dam/",
-    "/content/demo-eds-adaptive-form"
+    "/content/adaptive-form-eds-dummy"
   ]
 }
